@@ -16,7 +16,7 @@
     "@types/node": "9.4.6",
     "graphql": "0.13.1",
     "ts-node": "4.1.0",
-    "typescript": "2.7.1"
+    "typescript": "3.6.3"
   },
   "scripts": {
     "test": "cd src/example && ts-node test.ts",
