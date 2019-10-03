@@ -12,9 +12,9 @@
     "graphql-config": "2.2.1"
   },
   "devDependencies": {
-    "@types/graphql": "0.12.4",
+    "@types/graphql": "14.2.3",
     "@types/node": "9.4.6",
-    "graphql": "0.13.1",
+    "graphql": "14.5.8",
     "ts-node": "4.1.0",
     "typescript": "2.7.1"
   },
